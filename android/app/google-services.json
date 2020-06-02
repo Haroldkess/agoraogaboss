@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "333506478676",
+    "firebase_url": "https://agoraogaboss.firebaseio.com",
+    "project_id": "agoraogaboss",
+    "storage_bucket": "agoraogaboss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333506478676:android:311df835f6dbccbc4b63c1",
+        "android_client_info": {
+          "package_name": "com.ogaboss.agora_ogaboss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333506478676-k4rbv1cnpk6f637hf62d59hma3bit788.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ogaboss.agora_ogaboss",
+            "certificate_hash": "a94145781e21a5507130add56c80d67ebc03db82"
+          }
+        },
+        {
+          "client_id": "333506478676-oebkrbbsh4v9dh2h7rf5gm3d4das3c6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJaXPCmOZFNePqO9maPCb-FKPCbsX1YeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333506478676-oebkrbbsh4v9dh2h7rf5gm3d4das3c6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
